@@ -9,7 +9,7 @@ const App = () => {
       </label>
       <input 
         id="nome"
-        style={{paddingTop: 8, paddingBottom: 8, borderStyle: 'hidden', outline: 'none', borderRadius: 8, width: 100%}}
+        style={{paddingTop: 8, paddingBottom: 8, borderStyle: 'hidden', outline: 'none', borderRadius: 8, width: '100%'}}
         type="text"
       />
       <button
